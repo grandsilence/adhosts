@@ -23,3 +23,6 @@ Copy file **hosts** with replacing
 # Host sources
 1. Personal russian ads
 2. [Unified hosts = adware + malware](https://github.com/StevenBlack/hosts)
+
+# How to join your hosts to this one?
+Use my software: [HostsMerger](https://github.com/grandsilence/hostsmerger)
