@@ -2,9 +2,9 @@
 Hosts for blocking advert, adware and malware
 
 # Install
-Copy and replace file **hosts**
 
 ## On Unix systems (Linux, MacOS)
+Copy file **hosts** with replacing
 ```/etc/hosts```
 
 ## On Windows
@@ -19,3 +19,7 @@ fe80::1%lo0  localhost
 ### Step 2
 Copy file **hosts** with replacing
 ```%windir%\System32\drivers\etc\``` OR ```C:\Windows\System32\drivers\etc\```
+
+# Host sources
+1. Personal russian ads
+2. [Unified hosts = adware + malware](https://github.com/StevenBlack/hosts)
